@@ -1,2 +1,5 @@
-# Project3-Clustering_Analysis_Customers_Segmentation
+# Project3: Clustering Analysis (Customers Segmentation)
 Unsupervised Learning: k-means and Agglomerative
+
+
+
